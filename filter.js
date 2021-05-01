@@ -1,4 +1,4 @@
-// High order function  -> filter, map and reduce
+// Higher order function  -> filter, map and reduce
 
 // Filter -> recebe um callback, passando todos os elementos para o mesmo, assim que verifica a veracidade ele mantem esse elemento, e ao final do processo retorna um novo array com os elemetos filtrados
 
