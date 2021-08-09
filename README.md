@@ -13,4 +13,5 @@ Conteúdo trabalhado durante as aulas de javascript avançado do curso Programad
 * Desestruturando um objeto
 * Reduce
 * Try catch
+* Class
 
