@@ -1,0 +1,19 @@
+{
+  "name": "advanced-js-studies",
+  "version": "1.0.0",
+  "description": "Conteúdo trabalhado durante as aulas de javascript avançado do curso ProgramadorBr",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinicius-je/advanced-js-studies.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinicius-je/advanced-js-studies/issues"
+  },
+  "homepage": "https://github.com/vinicius-je/advanced-js-studies#readme"
+}
